@@ -1,2 +1,3 @@
-# Horror-Unity-Game
-First person shooter survival horror full of dark corridors and screeching noises, with a few bullets, a battered Armor and robotic monsters waiting in the dark.
+# Omar-Kemya-Survival
+
+a Survival Horror style game in Unity and coding in C#..Talking about our friend Omar who lost his way home back in the woods so he is trying to find the route to his home but he could not as the zombies trying to eat him..could he survive ??
